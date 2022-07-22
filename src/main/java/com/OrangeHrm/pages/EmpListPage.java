@@ -30,6 +30,7 @@ public class EmpListPage extends BaseClass {
 			driver.findElement(By.id("user_Password")).sendKeys(pwd);
 			driver.findElement(By.id("re_password")).sendKeys(pwd);
 		}
+		Util.waitforElementToClick(By.xpath("//input[@id=\"btnSave\"]"));
 		driver.findElement(By.id("btnSave")).click();
         return empDetails;
 	}
