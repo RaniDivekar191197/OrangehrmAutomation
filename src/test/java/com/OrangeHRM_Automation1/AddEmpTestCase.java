@@ -19,6 +19,7 @@ public class AddEmpTestCase extends BaseClass {
 		Map<String,Object> empDetails=empListPage.addEmp("cyber"," ","success", false, null, null);
 		empListPage.searchEmp(empDetails);
 		empListPage.deleteEmp();
+		
 		}
 }
 		
