@@ -1,8 +1,11 @@
-package com.OrangeHRM_Automation1;
+package com.Practice;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
+
+import com.OrangeHRM_Automation1.BaseClass;
+import com.OrangeHRM_Automation1.Util;
 
 public class javaScriptExample extends BaseClass {
 

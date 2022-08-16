@@ -1,4 +1,4 @@
-package com.OrangeHRM_Automation1;
+package com.Practice;
 
 import java.awt.Robot;
 import java.awt.event.KeyEvent;
@@ -7,6 +7,8 @@ import java.util.Set;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+
+import com.OrangeHRM_Automation1.BaseClass;
 
 public class KeywordUsed extends BaseClass {
 

@@ -1,6 +1,8 @@
-package com.OrangeHRM_Automation1;
+package com.Practice;
 
 import org.openqa.selenium.By;
+
+import com.OrangeHRM_Automation1.BaseClass;
 
 public class DeleteUser extends BaseClass
 {

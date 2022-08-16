@@ -1,4 +1,4 @@
-package com.OrangeHRM_Automation1;
+package com.Practice;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

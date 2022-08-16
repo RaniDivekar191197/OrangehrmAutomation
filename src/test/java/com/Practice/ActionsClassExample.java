@@ -1,8 +1,11 @@
-package com.OrangeHRM_Automation1;
+package com.Practice;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+
+import com.OrangeHRM_Automation1.BaseClass;
+import com.OrangeHRM_Automation1.Util;
 
 public class ActionsClassExample extends BaseClass {
 

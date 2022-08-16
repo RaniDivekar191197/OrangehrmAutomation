@@ -1,10 +1,13 @@
-package com.OrangeHRM_Automation1;
+package com.Practice;
 
 import java.util.List;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
+
+import com.OrangeHRM_Automation1.BaseClass;
+import com.OrangeHRM_Automation1.Util;
 
 public class SearchAppliances extends BaseClass{
 

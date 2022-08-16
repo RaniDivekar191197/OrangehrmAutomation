@@ -1,9 +1,11 @@
-package com.OrangeHRM_Automation1;
+package com.Practice;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+
+import com.OrangeHRM_Automation1.BaseClass;
 
 public class Pim extends BaseClass {
     

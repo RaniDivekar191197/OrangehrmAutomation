@@ -1,8 +1,10 @@
-package com.OrangeHRM_Automation1;
+package com.Practice;
 
 import java.time.Duration;
 
 import org.openqa.selenium.By;
+
+import com.OrangeHRM_Automation1.BaseClass;
 
 public class WaitsExamples extends BaseClass {
 
